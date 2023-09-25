@@ -12,5 +12,5 @@ Technologies :
 
  - Systèmes : Windows, Linux, Aix ,Android
  - Base de données : Oracle, Postgres, MySQL, SQLite
- - Programmation : C, C#, VB.NET, ASP, MVC, Javascript, HTML, CSS, Python, React-Native, Java, kotlin
+ - Programmation : C, C#, VB.NET, ASP, MVC, Javascript, HTML, CSS, Python, React-Native, Java, kotlin, jetPack Compose
  - Scripts : PowerShell, Bourne-Shell, C-Shell, Zpl
