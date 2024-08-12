@@ -1,16 +1,14 @@
-Net Wave Service Maroc
+Net Wave Service Morocco
 
-Depuis 1991, nous assistons les entreprises marocaines à réussir leur informatisation età automatiser au maximum les tâches de leurs collaborateurs.
-En développant des solutions intégrées qui optimisent le temps de travail et fiabilisent l'information.
+Since 1991, we have been assisting Moroccan companies to successfully computerize and automate their employees' tasks as much as possible. By developing integrated solutions that optimize working time and make information more reliable.
 
-Missions :
+Missions:
 
-- Concevoir, développer et mettre en œuvre des solutions informatiques adaptées aux attentes de nos clients.
-- Réaliser des solutions innovantes et proposer des services de qualité afin de satisfaire les exigences de nos clients
+Design, develop and implement IT solutions adapted to the expectations of our customers.
+Create innovative solutions and offer quality services in order to meet the requirements of our customers
+Technologies:
 
-Technologies :
-
- - Systèmes : Windows, Linux, Aix ,Android
- - Base de données : Oracle, Postgres, MySQL, SQLite
- - Programmation : C, C#, VB.NET, ASP, MVC, Javascript, HTML, CSS, Python, React-Native, Java, kotlin, jetPack Compose
- - Scripts : PowerShell, Bourne-Shell, C-Shell, Zpl
+- Systems: Windows, Linux (Ubuntu, RedHat), Aix, Android
+- Database: Oracle, Microsoft SQL Server,Postgres, MySQL, SQLite
+- Programming: C, C#, VB.NET, ASP, MVC, Javascript, HTML, CSS, Python, React-Native, Java, kotlin, jetPack Compose,.Net, MAUI,Blazor
+- Scripts: PowerShell, Bourne-Shell, C-Shell, Zpl
